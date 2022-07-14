@@ -1,0 +1,37 @@
+_repo: The-Trouvelot-astronomical-drawings-manual_68394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trouvelot, E. L. (Etienne Leopold)
+    aliases:
+    - Trouvelot, Étienne Léopold
+    - Trouvelot, Etienne Leopold
+    birthdate: 1827
+    deathdate: 1895
+    gutenberg_agent_id: '54752'
+    url: http://www.gutenberg.org/2009/agents/54752
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/%C3%89tienne_L%C3%A9opold_Trouvelot
+    - https://en.wikipedia.org/wiki/%C3%89tienne_L%C3%A9opold_Trouvelot
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68394'
+  lccn: 06011392
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001988202
+pgterms:marc905: 20220605095447trouvelot
+pgterms:marc906: '1882'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library and Wikipedia Commons.)
+publication_note: United States :C. Scribner's sons, 1882.,1882.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- Pictorial works'
+- GITenberg
+title: The Trouvelot astronomical drawings manual
+url: http://www.gutenberg.org/ebooks/68394
