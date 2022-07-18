@@ -1,5 +1,8 @@
 _repo: The-Trouvelot-astronomical-drawings-manual_68394
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68394-h/images/trouvelot_cover.jpg
 creator:
   author:
     agent_name: Trouvelot, E. L. (Etienne Leopold)
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/%C3%89tienne_L%C3%A9opold_Trouvelot
     - https://en.wikipedia.org/wiki/%C3%89tienne_L%C3%A9opold_Trouvelot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68394#The-Trouvelot-astronomical-drawings-manual
 gutenberg_issued: '2022-06-24'
 identifiers:
   gutenberg: '68394'
